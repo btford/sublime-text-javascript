@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${0:throw new Error(${1:'${2:oops}'});}]]></content>
+    <tabTrigger>thro</tabTrigger>
+    <scope>source.js</scope>
+    <description>Throw</description>
+</snippet>
