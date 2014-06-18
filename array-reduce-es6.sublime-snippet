@@ -2,5 +2,5 @@
   <content><![CDATA[reduce((${2:acc}, ${1:prop}) => ${4:(${2:acc}[${1:prop}] = ${3:fn(prop)}, ${2:acc})}, {})]]></content>
   <tabTrigger>reda</tabTrigger>
   <scope>source.js</scope>
-  <description>array.reduce(function (…) {…})</description>
+  <description>array.reduce((…) => {…})</description>
 </snippet>
