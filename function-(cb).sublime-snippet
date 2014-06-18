@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[${0:function ${1:fn} (err, ${2:arg}) {
+	${3:// body...}
+\}}]]></content>
+    <tabTrigger>cb</tabTrigger>
+    <scope>source.js</scope>
+    <description>Node-style Callback Function</description>
+</snippet>
