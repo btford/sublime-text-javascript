@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[reduce(function (${2:acc}, ${1:prop}) {
+  ${2:acc}[${1:prop}] = ${3:fn(prop)};
+  return ${2:acc};
+}, {})]]></content>
+  <tabTrigger>red</tabTrigger>
+  <scope>source.js</scope>
+  <description>array.reduce(function (…) {…})</description>
+</snippet>
