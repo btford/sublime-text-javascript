@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[prototype]]></content>
-    <tabTrigger>proto</tabTrigger>
-    <scope>source.js</scope>
-    <description>Prototype</description>
+  <content><![CDATA[prototype]]></content>
+  <tabTrigger>pro</tabTrigger>
+  <scope>source.js</scope>
+  <description>Prototype</description>
 </snippet>

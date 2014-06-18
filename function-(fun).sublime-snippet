@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[${0:function ${1:fn} (${2:arg}) {
-	${3:// body...}
+  <content><![CDATA[${0:function ${1:fn} (${2:arg}) {
+  ${3:// body...}
 \}}]]></content>
-    <tabTrigger>fun</tabTrigger>
-    <scope>source.js</scope>
-    <description>Function</description>
+  <tabTrigger>fun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Function</description>
 </snippet>
