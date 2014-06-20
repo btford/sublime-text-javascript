@@ -21,7 +21,7 @@ It will wreck whatever JS package you currently have to be Absolutely Sure That 
 
 ## See Also
 
-_TODO_
+* [JavaScriptNext.tmLanguage](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 
 
 ## license
