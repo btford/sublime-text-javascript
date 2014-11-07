@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect(${1:true}).toBe(${2:true});$0]]></content>
+  <tabTrigger>ex</tabTrigger>
+  <scope>source.js</scope>
+  <description>expect( … ).toBe( … )</description>
+</snippet>
